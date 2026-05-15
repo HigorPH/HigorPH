@@ -21,15 +21,7 @@
   </a>
 </p>
 <br/>
-<!-- Proyectos en formato tabla limpia -->
-## 💻 Proyectos Destacados
-| Proyecto | Descripción | Tecnologías |
-| :--- | :--- | :--- |
-| **[Whaticket Pro](https://github.com/HigorPH/Whaticket)** | Sistema reactivo de gestión de mensajes para empresas y atención masiva al cliente. | `React` `Node.js` `Socket.io` |
-| **[TexMerch E-commerce](https://github.com/HigorPH/Comercio-TXmerch-)** | Plataforma comercial moderna enfocada en la conversión y una UX totalmente fluida. | `PHP` `JavaScript` `CSS` |
-| **[API Rick & Morty](https://github.com/HigorPH/API-RICKANDMORTY)** | Explorador web interactivo con implementación de búsqueda y filtros detallados. | `HTML` `CSS` `JS` |
-| **[API Dragon Ball](https://github.com/HigorPH/Dragon_Ball_API)** | Aplicación para consultar y buscar información sobre el universo de Dragon Ball. | `HTML` `CSS` `JS` |
-<br/>
+
 <!-- Estadísticas con tema oscuro moderno -->
 ## 📈 GitHub Stats
 <div align="center">

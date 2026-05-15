@@ -23,12 +23,13 @@
 <br/>
 
 <!-- Estadísticas con tema oscuro moderno -->
-## 📈 GitHub Stats
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=HigorPH&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HigorPH&layout=compact&theme=radical&hide_border=true&bg_color=0D1117" width="48%" />
-</div>
-<br/>
+<p align = "center">
+	<img src = "https://komarev.com/ghpvc/?username=10kartik&style=plastic&color=blueviolet" alt = "Profile Views"/>
+</p>
+<p align = "center">
+	<img src = "https://github.com/7oSkaaa/7oSkaaa/blob/output/github-contribution-grid-snake.svg?" alt = "Snake Game"/>
+</p>
+
 
 ## 💻 Galería de Proyectos
 

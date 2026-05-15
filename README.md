@@ -34,7 +34,57 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HigorPH&layout=compact&theme=radical&hide_border=true&bg_color=0D1117" width="48%" />
 </div>
 <br/>
-<!-- Contacto centrado -->
+
+## 💻 Galería de Proyectos
+
+<br/>
+
+<table>
+  <tr>
+    <td align="center">
+      <h3>Whaticket Pro</h3>
+      <a href="https://github.com/HigorPH/Whaticket">
+        <img src="https://via.placeholder.com/400x225/1a1a1a/6366f1?text=Whaticket+Pro" width="400px" alt="Whaticket Pro" />
+      </a>
+      <br/>
+      <p>Gestión de mensajes masivos.</p>
+      <code>React</code> <code>Node.js</code> <code>Socket.io</code>
+    </td>
+    
+   <td align="center">
+      <h3>TexMerch E-commerce</h3>
+      <a href="https://github.com/HigorPH/Comercio-TXmerch-">
+        <img src="https://via.placeholder.com/400x225/1a1a1a/6366f1?text=TexMerch" width="400px" alt="TexMerch" />
+      </a>
+      <br/>
+      <p>Plataforma comercial moderna.</p>
+      <code>PHP</code> <code>JavaScript</code> <code>CSS</code>
+    </td>
+    <td align="center">
+      <h3>API Rick & Morty</h3>
+      <a href="https://github.com/HigorPH/API-RICKANDMORTY">
+        <img src="https://via.placeholder.com/400x225/1a1a1a/6366f1?text=Rick+y+Morty" width="400px" alt="Rick and Morty" />
+      </a>
+      <br/>
+      <p>Explorador interactivo de API.</p>
+      <code>HTML</code> <code>CSS</code> <code>JS</code>
+    </td>
+    
+   <td align="center">
+      <h3>API Dragon Ball</h3>
+      <a href="https://github.com/HigorPH/Dragon_Ball_API">
+        <img src="https://via.placeholder.com/400x225/1a1a1a/6366f1?text=Dragon+Ball" width="400px" alt="Dragon Ball" />
+      </a>
+      <br/>
+      <p>Búsqueda y filtros interactivos.</p>
+      <code>HTML</code> <code>CSS</code> <code>JS</code>
+    </td>
+    
+  </tr>
+</table>
+
+
+
 ## 📫 Conecta conmigo
 <div align="center">
   <br/>

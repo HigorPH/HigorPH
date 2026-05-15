@@ -14,7 +14,7 @@
 <h2 align="center">🛠️ Mi Stack Tecnológico</h2>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,html,css,react,nodejs,express,postgres,git,github,figma&perline=10" alt="Higor's Skills" />
+    <img src="https://skillicons.dev/icons?i=js,html,css,react,nodejs,postgres,git,github,figma&perline=10" alt="Higor's Skills" />
   </a>
 </p>
 <br/>

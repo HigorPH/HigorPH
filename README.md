@@ -2,7 +2,9 @@
   <h1 align="center">Welcome to <a href="https://github.com/MrBlueBird2">Higor Huaman</a>'s Profile 👋</h1>
 </p>
 <p align="center">
-  <a align="center" href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?&font=IBM+Plex+Sans&color=F72EE2&size=25&lines=Welcome+to+my+GitHub+Profile!;I'm+a+Front+end+developer;I'm+a+competitive+programmer;I'm+a+Flask+developer" /></a>
+  <a align="center" href="https://github.com/HigorHuaman">
+  <img src="https://readme-typing-svg.herokuapp.com?&font=IBM+Plex+Sans&color=58A6FF&size=25&center=true&vCenter=true&width=700&lines=Welcome+to+my+GitHub+Profile!;I'm+a+Junior+Full+Stack+Developer;Passionate+about+Web+Development;Building+projects+with+React+and+Node.js;Always+learning+new+technologies" />
+</a>
 </p>
 <p>Soy desarrollador Front-End, programador competitivo y también me gusta crear proyectos en PHP.
 </p>

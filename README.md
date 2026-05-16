@@ -6,7 +6,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?&font=IBM+Plex+Sans&color=58A6FF&size=25&center=true&vCenter=true&width=700&lines=Welcome+to+my+GitHub+Profile!;I'm+a+Junior+Full+Stack+Developer;Passionate+about+Web+Development;Building+projects+with+React+and+Node.js;Always+learning+new+technologies" />
 </a>
 </p>
-<p>Soy desarrollador Front-End, programador competitivo y también me gusta crear proyectos en PHP.
+<p>Soy desarrollador Full stack, programador competitivo y también me gusta crear proyectos en PHP.
 </p>
 
 

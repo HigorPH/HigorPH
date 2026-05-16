@@ -15,8 +15,8 @@
 
 <br><br>
 
-- :computer: Desarrollador Junior apasionado por el `Desarrollo de Software` y la `Tecnología`.
-- :rocket: Disfruto creando `sistemas` y `aplicaciones web` como soluciones para problemas del mundo real.
+- :computer: Practicante en el `Desarrollo de Software` y la `Tecnología`.
+- :rocket: Disfruto creando `paginas web` y `Consumo de Api´s` como soluciones para problemas del mundo real.
 - :technologist: Experiencia trabajando con `JavaScript`, `React`, `Node.js`, `PostgreSQL` y tecnologías web modernas.
 - :student: Actualmente aprendiendo más sobre `Ciencias de la Computación`, `Ingeniería de Software` y `Desarrollo Full Stack`.
 - :nerd_face: Siempre explorando nuevas tecnologías y mejorando mis `habilidades de programación`.
